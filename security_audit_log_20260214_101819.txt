@@ -1,0 +1,18 @@
+2026-02-14 10:18:19,229 - INFO - Detected OS: Darwin
+2026-02-14 10:18:19,235 - INFO - SSH Service: DISABLED
+2026-02-14 10:18:19,241 - INFO - Running Services (top 10):
+2026-02-14 10:18:19,241 - INFO - PID	Status	Label
+2026-02-14 10:18:19,241 - INFO - -	0	com.apple.SafariHistoryServiceAgent
+2026-02-14 10:18:19,241 - INFO - 1241	0	com.apple.progressd
+2026-02-14 10:18:19,241 - INFO - -	0	com.apple.enhancedloggingd
+2026-02-14 10:18:19,241 - INFO - 1029	0	com.apple.cloudphotod
+2026-02-14 10:18:19,241 - INFO - -	0	com.apple.MENotificationService
+2026-02-14 10:18:19,241 - INFO - 1423	-15	com.apple.Finder
+2026-02-14 10:18:19,241 - INFO - 627	0	com.apple.homed
+2026-02-14 10:18:19,241 - INFO - 1444	0	com.apple.dataaccess.dataaccessd
+2026-02-14 10:18:19,241 - INFO - -	0	com.apple.quicklook
+2026-02-14 10:18:19,241 - INFO - Port 22: CLOSED
+2026-02-14 10:18:19,241 - INFO - Port 80: CLOSED
+2026-02-14 10:18:19,241 - INFO - Port 443: CLOSED
+2026-02-14 10:18:19,241 - INFO - Port 5000: OPEN
+2026-02-14 10:18:19,241 - INFO - Port 5432: OPEN

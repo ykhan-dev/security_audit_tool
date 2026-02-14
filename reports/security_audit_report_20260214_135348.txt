@@ -1,0 +1,32 @@
+=== Cloud Security Audit Report ===
+Generated: 2026-02-14 13:53:48.314548
+OS Detected: Darwin
+Target IP: 127.0.0.1
+
+--- SSH Status ---
+[92mSSH Service: DISABLED[0m
+
+--- Running Services ---
+Running Services (top 10):
+PID	Status	Label
+-	0	com.apple.SafariHistoryServiceAgent
+1241	0	com.apple.progressd
+-	0	com.apple.enhancedloggingd
+1029	0	com.apple.cloudphotod
+-	0	com.apple.MENotificationService
+1423	-15	com.apple.Finder
+627	0	com.apple.homed
+1444	0	com.apple.dataaccess.dataaccessd
+-	0	com.apple.quicklook
+
+--- Port Scan ---
+Port 20: CLOSED
+Port 21: CLOSED
+Port 22: CLOSED
+Port 23: CLOSED
+Port 24: CLOSED
+Port 25: CLOSED
+Port 80: CLOSED
+Port 443: CLOSED
+Port 5000: OPEN
+Port 5432: OPEN
