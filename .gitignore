@@ -1,1 +1,4 @@
-test_obj_create1.py
+reports/
+__pycache__/
+*.pyc
+archive/
